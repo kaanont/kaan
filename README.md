@@ -1,13 +1,13 @@
-### Merhaba, ben KAAN 👋
+### Hello, it's KAAN 👋
 
-- ⚡ Adım Kaan 24 yaşında yazılım öğrencisiyim Blog siteleri , pyton projeleri, sql ve .Netcore Framework ile ilgileniyorum. her şeye yeni başladık , burada beraber ilerliyeceğiz.
+- ⚡ My name is  Kaan 24 years old , I making Blog website  , pyton project, sql ve .Netcore Framework .I start yet,we will see what happend.⚡
 
-- 🔭 Şu anda [Fotoğrafçılık stüdyom web blog sayfası] üzerinde çalışıyorum.
-- 🌱 Python ve .Netcore Framework  öğreniyorum.
+- 🔭 Work On [Fotoğrafçılık stüdyom web blog site] 
+- 🌱 Python ve .Netcore Framework  Learnin stage.
 -  📫 Bana nasıl ulaşabilirsiniz: kaan.638.onat@gmail.com
 
 
-### 💻 Kullandığım Teknolojiler ve Araçlar:
+### 💻 What I Know?:
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -18,7 +18,7 @@
 </p>
 
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub state
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaanont&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaanont&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
